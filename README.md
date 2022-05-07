@@ -13,7 +13,6 @@ I'm Junyeong Choi, Student at University of Bridgeport
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&src=https://www.linkedin.com/in/junyeong-choi-357164207/)
 
 
 <a href="https://www.linkedin.com/in/junyeong-choi-357164207/" rel="nofollow noreferrer">
