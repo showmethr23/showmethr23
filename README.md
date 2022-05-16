@@ -17,6 +17,7 @@ I'm Junyeong Choi, Student at University of Bridgeport
 
 
 You can find me here!
+---
 <a href="https://www.linkedin.com/in/junyeong-choi-357164207/" rel="nofollow noreferrer">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&src=https://www.linkedin.com/in/junyeong-choi-357164207/" alt="linkedin">
 </a> &nbsp; 
