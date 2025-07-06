@@ -1,7 +1,7 @@
 ### 👀 It's nice to meet you!
 ---
 
-I'm Junyeong Choi, Student at University of Bridgeport 
+I'm Junyeong Choi, currently working at Kumho Tire Georgia as IT programmer
 
 
 
